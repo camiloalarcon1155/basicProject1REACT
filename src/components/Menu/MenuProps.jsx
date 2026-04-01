@@ -14,7 +14,7 @@ export default function MenuProps(props) {
                 <li><a href="#">Contacto</a></li>
                 <li><a href="#">PEDIDOS</a></li>
                 <li><a href="#">ESCRIBENOS</a></li>
-
+                <li><a href="#">COMPRAR</a></li>
             </ul>
         </nav>
     );
