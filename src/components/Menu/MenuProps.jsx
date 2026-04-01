@@ -12,6 +12,9 @@ export default function MenuProps(props) {
                 <li><a href="#">Suministros</a></li>
                 <li><a href="#">Tiendas</a></li>
                 <li><a href="#">Contacto</a></li>
+                <li><a href="#">PEDIDOS</a></li>
+                <li><a href="#">ESCRIBENOS</a></li>
+
             </ul>
         </nav>
     );
